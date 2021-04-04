@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gianlucaroccasalvo
 - 👀 I’m interested in social and technical development
-- 🌱 I’m currently learning about sustainable development at Techische Universität Wien
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about sustainable development at Technische Universität Wien
+- 💞️ I’m looking to collaborate on energy economics analysis
 - 📫 How to reach me: hmu at gianlucaroccasalvo@gmail.com
 
 <!---
